@@ -31,3 +31,9 @@ description: 巴比特国际品牌 DeFi 之道和新加坡新跃社科大学普�
 [附录：Web3 主要投资机构介绍](fu-lu-web3-zhu-yao-tou-zi-ji-gou-jie-shao.md)
 
 [参考资料](can-kao-zi-liao.md)
+
+
+
+本报告向全球免费发布遵循的版权协议为[CC-BY-NC-ND许可](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
+
+[![CC-BY-NC-ND](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/CC-BY-NC-ND.png?raw=true)](https://raw.githubusercontent.com/selfteaching/the-craft-of-selfteaching/master/images/CC-BY-NC-ND.png?raw=true)
