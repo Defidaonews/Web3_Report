@@ -4,6 +4,7 @@ description: 本报告引用到以下相关资料，对参考内容作者表示�
 
 # 参考资料
 
+
 **第 1 章 Web3**
 
 A Declaration of the Independence of Cyberspace
