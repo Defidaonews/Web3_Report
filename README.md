@@ -1,6 +1,7 @@
 ---
 description: 巴比特国际品牌 DeFi 之道和新加坡新跃社科大学普惠金融科技节点，联合制作的《全球 Web3 生态创新观察报告》
 ---
+![封面](https://github.com/Defidaonews/Web3_Report/blob/main/.gitbook/assets/ReportPic.jpg?raw=true)
 
 # 报告目录
 
